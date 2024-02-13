@@ -7,6 +7,6 @@ if(a === b){
 
 let statut="etudiant";
 let age=20;
-if (statut=="etudiant" || age>20){
+if (statut=="etudiant" & age==20){
     console.log("ok!!!")
 }
